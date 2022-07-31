@@ -1,0 +1,105 @@
+
+
+.one {
+    font-family: Tahoma;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.two {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 26px;
+    margin-top: 8px;
+    margin-bottom: 0;
+}
+
+.three {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 4px;
+    margin-bottom: 8px;
+}
+
+.fivep {
+    font-family: verdana;
+    margin-bottom: auto;
+}
+
+.head {
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.tittle {
+    color: grey;
+    margin-top: 0;
+}
+
+.subject {
+    font-weight: 20px;
+    width: 300px;
+    line-height: 20px;
+}
+
+.btn-1 {
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 14px;
+    padding-bottom: 8px;
+}
+
+.twwo {
+    font-family: Arial;
+    text-align: center;
+    margin: 0 10px;
+}
+
+.four {
+    font-size: 15px;
+}
+
+.five {
+    color: rgb(4, 4, 61);
+    font-size: 15px;
+}
+
+.btn-2 {
+    background-color: #0a66c2;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    padding: 8px 15px;
+}
+
+.arial {
+    font-family: arial;
+}
+
+.arial-1 {
+    font-size: 30px;
+    margin-bottom: 2px;
+}
+
+.arial-2 {
+    color: rgb(31, 172, 31);
+}
+
+.span-1 {
+    color: rgba(22, 10, 11, 0.747);
+    font-weight: 100;
+    font-size: 15px;
+    margin-left: 4px;
+}
+
+.span-2 {
+    color: red;
+}
+
+.span-3 {
+    color: #0a66c2;
+}
